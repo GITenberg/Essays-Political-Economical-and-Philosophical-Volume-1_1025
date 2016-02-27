@@ -1,0 +1,38 @@
+_repo: Essays-Political-Economical-and-Philosophical-Volume-1_1025
+creator:
+  author:
+    agent_name: Rumford, Benjamin, Graf von
+    aliases:
+    - Thompson, Benjamin, Sir
+    - Rumford, Benjamin Thompson, Count
+    birthdate: 1753
+    deathdate: 1814
+    gutenberg_agent_id: '513'
+    url: http://www.gutenberg.org/2009/agents/513
+description: ''
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charities'
+- !lcsh 'Food'
+- !lcsh 'Poor -- Germany -- Munich'
+- !lcsh 'Heat'
+- !lcsh 'Kitchen utensils'
+- !lcc 'Q'
+- !lcsh 'Fireplaces'
+tableOfContents: Dedication -- First Essay (An account of an Establishment for the
+  Poor at Munich) -- Second Essay (On the Fundamental Principles on which General
+  Establishments for the Relief of the Poor may be formed in all Countries) -- Third
+  Essay (Of Food and Particularly of Feeding the Poor) -- Fourth Essay (Of Chimney
+  Fire-places with proposals for improving them to save Fuel; to render dwelling-houses
+  more Comfortable and Salubrious, and effectually to prevent Chimnies from Smoking)
+  -- Fifth Essay (A Short Account of several public institutions lately formed in
+  Bavaria)-- Appendix to the First Volume.
+title: Essays; Political, Economical, and Philosophical — Volume 1
+url: http://www.gutenberg.org/ebooks/1025
