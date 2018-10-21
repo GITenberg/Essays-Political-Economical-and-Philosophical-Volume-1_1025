@@ -1,5 +1,5 @@
 _repo: Essays-Political-Economical-and-Philosophical-Volume-1_1025
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Kitchen utensils'
 - !lcc 'Q'
 - !lcsh 'Fireplaces'
+- GITenberg
 tableOfContents: Dedication -- First Essay (An account of an Establishment for the
   Poor at Munich) -- Second Essay (On the Fundamental Principles on which General
   Establishments for the Relief of the Poor may be formed in all Countries) -- Third
